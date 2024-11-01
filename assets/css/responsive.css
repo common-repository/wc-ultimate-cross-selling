@@ -1,0 +1,17 @@
+@media only screen and (min-width: 360px) and (max-width:767px){
+	div#main-wrap{width: 95%;margin: 0 auto;}
+	.entry-summary .cross-sell-title { font-size: 20px;}
+}
+
+@media only screen and (min-width: 768px) and (max-width:1023px) {
+	.container {width: 730px !important;}
+	.menu-container {width: 542px !important;}
+	div#main-wrap{width: 95%;margin: 0 auto;}
+
+}
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (orientation : landscape) {
+	/*.entry-summary .select2-container--default .select2-selection--single .select2-selection__arrow b{left: 170px;}*/
+	#main-wrap{width: 95% !important;margin: 0 auto !important;}
+
+}
